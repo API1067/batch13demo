@@ -8,5 +8,6 @@ System.out.println("New addition");
 System.out.println(" branch test");
   System.out.println("Fourth");
 System.out.println("Jenkins test");
+System.out.println("Variable test via jenkins");
 }
 }
